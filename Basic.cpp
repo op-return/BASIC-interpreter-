@@ -1,7 +1,7 @@
 /*
  * File: Basic.cpp
  * ---------------
- * Name: [TODO: enter name here]
+ * Name: Alex Sedaghat
  * Section: [TODO: enter section leader here]
  * This file is the starter project for the BASIC interpreter from
  * Assignment #6.
